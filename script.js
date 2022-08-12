@@ -142,3 +142,25 @@ let tractor={
     color:"Yello and Green"
 }
 console.log(tractor.brand,tractor.model,tractor.color);
+
+let idcard={
+    collage:"SVC",
+    department:"EEE",
+    year:"finalyear"
+}
+console.log(idcard.collage,idcard.department,idcard.year);
+
+let pendrive={
+    brand:"sony",
+    capacity:"8GB",
+    amount:"300Rs"
+}
+console.log(pendrive.brand,pendrive.capacity,pendrive.amount);
+
+let family={
+    mothername:"muthulakshmi",
+    fathername:"Paramasivan",
+    brothername:"Bala"
+}
+console.log(family.mothername,family.fathername,family.brothername);
+
